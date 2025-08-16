@@ -112,6 +112,9 @@ configurations {
 }
 
 dependencies {
+    // JSON parsing for curated mod list
+    implementation 'com.google.code.gson:gson:2.10.1'
+    
     // Example optional mod dependency with JEI
     // The JEI API is declared for compile time use, while the full JEI artifact is used at runtime
     // compileOnly "mezz.jei:jei-${mc_version}-common-api:${jei_version}"

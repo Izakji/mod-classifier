@@ -1,0 +1,50 @@
+[
+  {
+    "mod_name": "Just Enough Items",
+    "page_url": "https://modrinth.com/mod/jei",
+    "source": "modrinth",
+    "classification": "CLIENT_ONLY",
+    "confidence": 0.95,
+    "reason": [
+      {"label": "UI mod", "snippet": "Recipe viewer with client-side interface"},
+      {"label": "optional on server", "snippet": "Server installation is optional"}
+    ],
+    "scanned_at": "2025-08-17T15:42:10.123456"
+  },
+  {
+    "mod_name": "Sodium",
+    "page_url": "https://modrinth.com/mod/sodium",
+    "source": "modrinth",
+    "classification": "CLIENT_ONLY",
+    "confidence": 0.99,
+    "reason": [
+      {"label": "rendering optimization", "snippet": "Client-side rendering optimization"},
+      {"label": "client only", "snippet": "Only works on client side"}
+    ],
+    "scanned_at": "2025-08-17T15:42:10.123456"
+  },
+  {
+    "mod_name": "Applied Energistics 2",
+    "page_url": "https://modrinth.com/mod/ae2",
+    "source": "modrinth",
+    "classification": "UNIVERSAL",
+    "confidence": 0.98,
+    "reason": [
+      {"label": "required on both", "snippet": "Required on both client and server"},
+      {"label": "tech mod", "snippet": "Technology mod with machines and networks"}
+    ],
+    "scanned_at": "2025-08-17T15:42:10.123456"
+  },
+  {
+    "mod_name": "Twilight Forest",
+    "page_url": "https://modrinth.com/mod/twilightforest",
+    "source": "modrinth",
+    "classification": "UNIVERSAL",
+    "confidence": 0.97,
+    "reason": [
+      {"label": "dimension mod", "snippet": "Adds new dimension accessible to all players"},
+      {"label": "required on both", "snippet": "Must be installed on both client and server"}
+    ],
+    "scanned_at": "2025-08-17T15:42:10.123456"
+  }
+]

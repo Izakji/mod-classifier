@@ -2,35 +2,62 @@ package com.izakji.mod_classifier;
 
 import java.util.List;
 
-import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.resources.ResourceLocation;
 import net.neoforged.neoforge.common.ModConfigSpec;
 
-// An example config class. This is not required, but it's a good idea to have one to keep your config organized.
-// Demonstrates how to use Neo's config APIs
 public class Config {
     private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();
 
-    public static final ModConfigSpec.BooleanValue LOG_DIRT_BLOCK = BUILDER
-            .comment("Whether to log the dirt block on common setup")
-            .define("logDirtBlock", true);
+    public static final ModConfigSpec.BooleanValue ENABLE_MOD_CLASSIFICATION = BUILDER
+            .comment("Enable automatic mod classification system")
+            .define("enableModClassification", true);
 
-    public static final ModConfigSpec.IntValue MAGIC_NUMBER = BUILDER
-            .comment("A magic number")
-            .defineInRange("magicNumber", 42, 0, Integer.MAX_VALUE);
+    public static final ModConfigSpec.BooleanValue ENABLE_FILE_RENAMING = BUILDER
+            .comment("Enable automatic renaming of classified mod files")
+            .define("enableFileRenaming", true);
 
-    public static final ModConfigSpec.ConfigValue<String> MAGIC_NUMBER_INTRODUCTION = BUILDER
-            .comment("What you want the introduction message to be for the magic number")
-            .define("magicNumberIntroduction", "The magic number is... ");
+    public static final ModConfigSpec.BooleanValue VERBOSE_LOGGING = BUILDER
+            .comment("Enable verbose logging for classification process")
+            .define("verboseLogging", false);
 
-    // a list of strings that are treated as resource locations for items
-    public static final ModConfigSpec.ConfigValue<List<? extends String>> ITEM_STRINGS = BUILDER
-            .comment("A list of items to log on common setup.")
-            .defineListAllowEmpty("items", List.of("minecraft:iron_ingot"), () -> "", Config::validateItemName);
+    public static final ModConfigSpec.IntValue CLASSIFICATION_THREAD_POOL_SIZE = BUILDER
+            .comment("Number of threads to use for mod classification (0 = auto)")
+            .defineInRange("classificationThreadPoolSize", 0, 0, 16);
+
+    public static final ModConfigSpec.IntValue MAX_CLASSES_TO_SCAN = BUILDER
+            .comment("Maximum number of classes to scan per mod for performance")
+            .defineInRange("maxClassesToScan", 50, 10, 500);
+
+    public static final ModConfigSpec.BooleanValue USE_ENHANCED_ANALYSIS = BUILDER
+            .comment("Use enhanced analysis algorithm with DisplayTest detection and proper sidedness checking")
+            .define("useEnhancedAnalysis", true);
+
+    public static final ModConfigSpec.BooleanValue ENABLE_ACCURACY_TRACKING = BUILDER
+            .comment("Enable accuracy tracking and algorithm self-improvement")
+            .define("enableAccuracyTracking", true);
+
+    public static final ModConfigSpec.BooleanValue LOG_EVIDENCE_DETAILS = BUILDER
+            .comment("Log detailed evidence for each classification decision")
+            .define("logEvidenceDetails", false);
+
+    public static final ModConfigSpec.ConfigValue<List<? extends String>> FORCED_CLIENT_MODS = BUILDER
+            .comment("List of mod IDs to force classify as client-only")
+            .defineListAllowEmpty("forcedClientMods", List.of(), () -> "", Config::validateModId);
+
+    public static final ModConfigSpec.ConfigValue<List<? extends String>> FORCED_SERVER_MODS = BUILDER
+            .comment("List of mod IDs to force classify as server-only")
+            .defineListAllowEmpty("forcedServerMods", List.of(), () -> "", Config::validateModId);
+
+    public static final ModConfigSpec.ConfigValue<List<? extends String>> FORCED_UNIVERSAL_MODS = BUILDER
+            .comment("List of mod IDs to force classify as universal (both sides)")
+            .defineListAllowEmpty("forcedUniversalMods", List.of(), () -> "", Config::validateModId);
+
+    public static final ModConfigSpec.ConfigValue<List<? extends String>> IGNORED_MODS = BUILDER
+            .comment("List of mod IDs to ignore during classification")
+            .defineListAllowEmpty("ignoredMods", List.of("minecraft", "neoforge"), () -> "", Config::validateModId);
 
     static final ModConfigSpec SPEC = BUILDER.build();
 
-    private static boolean validateItemName(final Object obj) {
-        return obj instanceof String itemName && BuiltInRegistries.ITEM.containsKey(ResourceLocation.parse(itemName));
+    private static boolean validateModId(final Object obj) {
+        return obj instanceof String modId && modId.matches("[a-z][a-z0-9_]{1,63}");
     }
 }

@@ -42,9 +42,13 @@ public class ModClassifier {
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {
-        // Some common setup code
-        LOGGER.info("HELLO FROM COMMON SETUP");
-
+        LOGGER.info("Mod Classifier initializing...");
+        
+        if (Config.ENABLE_MOD_CLASSIFICATION.get()) {
+            LOGGER.info("Mod classification system enabled");
+        } else {
+            LOGGER.info("Mod classification system disabled in config");
+        }
     }
 
     // Add the example block item to the building blocks tab
