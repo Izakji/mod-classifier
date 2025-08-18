@@ -68,13 +68,16 @@ public class ModClassificationSystem {
         }
     }
 
-    private static void classifyAllMods() {
+    private static void  classifyAllMods() {
         LoadingModList modList = LoadingModList.get();
         
         if (modList == null) {
             ModClassifier.LOGGER.warn("Could not access mod list for classification");
             return;
         }
+        
+        // Initialize the JSON classification service
+        JsonClassificationService.getInstance().initialize();
         
         modList.getModFiles().parallelStream()
             .filter(modFile -> !modFile.getMods().isEmpty())
@@ -95,14 +98,36 @@ public class ModClassificationSystem {
                         // Config not loaded, continue with classification
                     }
                     
+                    ModType modType = null;
+                    String classificationSource = "unknown";
+                    
+                    // 1. First priority: Check forced types from config
                     ModType forcedType = getForcedModType(modId);
-                    ModType modType = (forcedType != null) ? forcedType : ModAnalyzer.analyzeModType(modFile);
+                    if (forcedType != null) {
+                        modType = forcedType;
+                        classificationSource = "config";
+                    }
+                    
+                    // 2. Second priority: Check curated JSON classifications
+                    if (modType == null) {
+                        ModType curatedType = JsonClassificationService.getInstance().getCuratedClassification(modId);
+                        if (curatedType != null) {
+                            modType = curatedType;
+                            classificationSource = "curated";
+                        }
+                    }
+                    
+                    // 3. Final fallback: Use heuristic analysis
+                    if (modType == null) {
+                        modType = ModAnalyzer.analyzeModType(modFile);
+                        classificationSource = "heuristic";
+                    }
                     
                     classificationCache.put(modId, modType);
                     
                     boolean verboseLogging = safeGetConfig(() -> Config.VERBOSE_LOGGING.get(), false);
                     if (verboseLogging || modType != ModType.UNIVERSAL) {
-                        ModClassifier.LOGGER.info("Classified mod {} as {}", modId, modType);
+                        ModClassifier.LOGGER.info("Classified mod {} as {} (source: {})", modId, modType, classificationSource);
                     }
                     
                     boolean enableFileRenaming = safeGetConfig(() -> Config.ENABLE_FILE_RENAMING.get(), true);
@@ -160,6 +185,9 @@ public class ModClassificationSystem {
 
     private static void logClassificationStatistics() {
         try {
+            // Log curated classification statistics
+            JsonClassificationService.getInstance().logCurationStatistics();
+            
             // Log manual curation statistics
             ManualCuration.getInstance().logCurationSummary();
             

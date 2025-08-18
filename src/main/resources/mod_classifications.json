@@ -1,0 +1,2726 @@
+{
+  "data": [
+    {
+      "name": "Iris",
+      "side": "Client",
+      "type": [
+        "Shaders"
+      ],
+      "modId": "iris",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/IrisShaders/Iris",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Achievements Optimizer",
+      "side": "Universal",
+      "type": [
+        "Performance"
+      ],
+      "modId": "achiopt",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/bigenergy/achievement-optimizer",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/achievements-optimizer",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Oculus",
+      "side": "Client",
+      "type": [
+        "Shaders"
+      ],
+      "modId": "oculus",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/Asek3/Oculus",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Sodium",
+      "side": "Client",
+      "type": [
+        "Performance"
+      ],
+      "modId": "sodium",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/CaffeineMC/sodium",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Lithium",
+      "side": "Universal",
+      "type": [
+        "Performance"
+      ],
+      "modId": "lithium",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/CaffeineMC/lithium",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/lithium",
+      "contributor": "Izakji",
+      "observations": "The mod works on both the client and server, and can be installed on servers without requiring clients to also have the mod (and vice versa.)"
+    },
+    {
+      "name": "FerriteCore",
+      "side": "Universal",
+      "type": [
+        "Performance"
+      ],
+      "modId": "ferritecore",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/malte0811/FerriteCore",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "ModernFix",
+      "side": "Universal",
+      "type": [
+        "Performance"
+      ],
+      "modId": "modernfix",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/embeddedt/ModernFix",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "L_Ender 's Cataclysm",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Armor",
+        "Weapons",
+        "Structures",
+        "Boss",
+        "Mobs"
+      ],
+      "modId": "cataclysm",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/lender544/new1.20.1",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Qliphoth Awakening",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Boss"
+      ],
+      "modId": "fdbosses",
+      "version": "",
+      "incompatibleMods": [],
+      "source": "https://github.com/FINDERFEED/FDBosses",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/qliphoth-awakening",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Alshanex's Familiars",
+      "side": "Universal",
+      "type": [
+        "Structures",
+        "Mobs",
+        "Addon"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/alshanexs-familiars",
+      "contributor": "Cheddar",
+      "observations": ""
+    },
+    {
+      "name": "Create",
+      "side": "Universal",
+      "type": [
+        "Technology",
+        "Building",
+        "Decoration"
+      ],
+      "modId": "create",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/create",
+      "contributor": "Mat",
+      "observations": ""
+    },
+    {
+      "name": "The Twilight Forest",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Dimension",
+        "Boss",
+        "Structures",
+        "Mobs",
+        "RPG",
+        "Armor",
+        "Weapons"
+      ],
+      "modId": "twilightforest",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
+      "contributor": "Mat",
+      "observations": ""
+    },
+    {
+      "name": "Mekanism",
+      "side": "Universal",
+      "type": [
+        "Storage",
+        "Technology",
+        "Armor",
+        "Weapons"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/mekanism",
+      "contributor": "Cheddar",
+      "observations": ""
+    },
+    {
+      "name": "Immersive Engineering",
+      "side": "Universal",
+      "type": [
+        "Technology",
+        "Cosmetic"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering",
+      "contributor": "Cheddar",
+      "observations": ""
+    },
+    {
+      "name": "Supplementaries",
+      "side": "Universal",
+      "type": [
+        "Cosmetic",
+        "Decoration",
+        "Storage"
+      ],
+      "modId": "supplementaries",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+      "contributor": "Cheddar",
+      "observations": ""
+    },
+    {
+      "name": "Polytone",
+      "side": "Client",
+      "type": [
+        "GUI",
+        "Sound"
+      ],
+      "modId": "",
+      "version": "1.21.7",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/polytone",
+      "contributor": "Cheddar",
+      "observations": ""
+    },
+    {
+      "name": "KubeJS",
+      "side": "Universal",
+      "type": [
+        "Map",
+        "API",
+        "Server Utility",
+        "Worldgen",
+        "KubeJS"
+      ],
+      "modId": "kubejs",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/kubejs",
+      "contributor": "Cheddar",
+      "observations": ""
+    },
+    {
+      "name": "JEI",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "jei",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/jei",
+      "contributor": "Izakji",
+      "observations": "Can JEI run client-only, or with a vanilla server?\nYes, with some features disabled:\nThe \"Move items into crafting area\" [+] buttons.\nCheating in items that have lots of NBT data.\nDeleting items."
+    },
+    {
+      "name": "Jade",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "jade",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/jade",
+      "contributor": "Izakji",
+      "observations": "Jade can be installed only on the client side. But many features require Jade on the server side. (item storage, brewing stand fuel amount, bees in beehive…)"
+    },
+    {
+      "name": "Clumps",
+      "side": "Server",
+      "type": [
+        "QoL",
+        "Performance"
+      ],
+      "modId": "clumps",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "ModernFix",
+      "side": "Universal",
+      "type": [
+        "Performance"
+      ],
+      "modId": "modernfix",
+      "version": "1.21.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Bobby",
+      "side": "Unknown",
+      "type": [
+        "QoL"
+      ],
+      "modId": "",
+      "version": "1.21.7",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/bobby",
+      "contributor": "Izakji",
+      "observations": "Needs testing to confirm"
+    },
+    {
+      "name": "Distant Horizons",
+      "side": "Universal",
+      "type": [
+        "QoL"
+      ],
+      "modId": "",
+      "version": "1.21.7",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/distant-horizons",
+      "contributor": "Izakji",
+      "observations": "For Multiplayer, DH won't be able to generate LODs for chunks outside the vanilla render distance unless DH is installed on the server (DH 2.3.0+). Instead, as you travel around the world, LODs will be generated for areas you've visited.\nIf DH is installed on the server, it will work just like in singleplayer, gradually pregenerating chunks around the player. The server also has access to the /dh pregen start <dimension> <origin> <chunkRadius> command, useful when you want to pregen without anyone online.\nClick here for more information about serverside support with using the mod. Or here for the plugin."
+    },
+    {
+      "name": "Mouse Tweaks",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "mousetweaks",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "AppleSkin",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "appleskin",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+      "contributor": "Izakji",
+      "observations": "This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client."
+    },
+    {
+      "name": "Xaeros's Minimap",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "GUI",
+        "Map"
+      ],
+      "modId": "xaerominimap",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+      "contributor": "Izakji",
+      "observations": "This mod is mostly client-sided. Installing it on the server side is optional for some additional features like world identification.\n\nHow do I let vanilla client players join my server that has the mod installed?\nLook for the \"xaerominimap-common\" config file in the config folder directly in your server directory (not the world folder). In the config file, you get multiple options that let you disable certain mod features for your players. One of the options lets you disable the registration of status effects, which is what prevents players from joining. Changes require a server restart. Do the same for the world map."
+    },
+    {
+      "name": "Controlling",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "controlling",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Crafting Tweaks",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks",
+      "contributor": "Izakji",
+      "observations": "Needs testing to confirm"
+    },
+    {
+      "name": "Nature's Compass",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Adventure",
+        "Map"
+      ],
+      "modId": "naturescompass",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Explorer's Compass",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Adventure",
+        "Map"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/explorers-compass",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Inventory HUD+",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Mouse Wheelie",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "",
+      "version": "1.20.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "ItemSwapper",
+      "side": "Unknown",
+      "type": [
+        "QoL",
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/itemswapper",
+      "contributor": "Izakji",
+      "observations": "Needs testing to confirm"
+    },
+    {
+      "name": "Better F3",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/betterf3",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Best Pick",
+      "side": "Unknown",
+      "type": [
+        "QoL"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/best-pick",
+      "contributor": "Izakji",
+      "observations": "Needs testing to confirm"
+    },
+    {
+      "name": "GeckoLib",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "geckolib",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Cloth Config API",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "cloth_config",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Architectury API",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "architectury",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Bookshelf",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "bookshelf",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Curios API",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "curios",
+      "version": "1.21.5",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/curios",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Balm",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "balm",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/balm",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Sophisticated Core",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "sophisticatedcore",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Moonlight Lib",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "moonlight",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/selene",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Collective",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "collective",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/collective",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Cupboard",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "cupboard",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Biomes O' Plenty",
+      "side": "Universal",
+      "type": [
+        "Biomes",
+        "Worldgen"
+      ],
+      "modId": "biomesoplenty",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Terralith",
+      "side": "Server",
+      "type": [
+        "Biomes",
+        "Worldgen"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/terralith",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Waystones",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Server Utility",
+        "Magic",
+        "Player Transport"
+      ],
+      "modId": "waystones",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "When Dungeons Arise",
+      "side": "Server",
+      "type": [
+        "Structures",
+        "Mobs",
+        "Adventure",
+        "RPG"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Shadowlands",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Dimension",
+        "Mobs"
+      ],
+      "modId": "",
+      "version": "1.20.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/shadowlands",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Sophisticated Backpacks",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Adventure",
+        "Storage"
+      ],
+      "modId": "sophisticatedbackpacks",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Tinker's Construct",
+      "side": "Universal",
+      "type": [
+        "RPG",
+        "Tools",
+        "Weapons"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Botania",
+      "side": "Universal",
+      "type": [
+        "Armor",
+        "Tools",
+        "Weapons",
+        "Magic",
+        "Technology"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/botania",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Aquaculture 2",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Armor",
+        "Weapons",
+        "Tools",
+        "Food",
+        "RPG"
+      ],
+      "modId": "aquaculture",
+      "version": "1.21.5",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/aquaculture",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Pixelmon",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Armor",
+        "Tools",
+        "Weapons",
+        "Mobs",
+        "Worldgen",
+        "Cosmetic"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/pixelmon",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Technology",
+        "Cosmetic",
+        "Decoration",
+        "Storage"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Conquest Reforged",
+      "side": "Universal",
+      "type": [
+        "RPG",
+        "Cosmetic",
+        "Building",
+        "Structures",
+        "Decoration"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/conquest-reforged",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "The Deep Void",
+      "side": "Universal",
+      "type": [
+        "RPG",
+        "Adventure",
+        "Worldgen",
+        "Dimension",
+        "Biomes",
+        "Mobs"
+      ],
+      "modId": "",
+      "version": "1.20.6",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/the-deep-void",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Decocraft",
+      "side": "Universal",
+      "type": [
+        "Cosmetic",
+        "Storage",
+        "Decoration",
+        "Building"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/decocraft",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Unusual Furniture",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Cosmetic",
+        "Decoration",
+        "Storage"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/unusual-furniture",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Furnection",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Decoration",
+        "Storage",
+        "Cosmetic"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/furnection",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Fantasy's Furniture",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Cosmetic",
+        "Storage",
+        "Decoration"
+      ],
+      "modId": "",
+      "version": "1.21.7",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/fantasys-furniture",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Paladin's Furrniture",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Cosmetic",
+        "Storage",
+        "Decoration"
+      ],
+      "modId": "",
+      "version": "1.21.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/paladins-furniture",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Another Furniture",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Cosmetic",
+        "Storage",
+        "Decoration"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/another-furniture",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Chisel Reborn",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Decoration",
+        "Cosmetic",
+        "Building"
+      ],
+      "modId": "",
+      "version": "1.21.7",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/chisel-reborn",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Apocalypse Now",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Armor",
+        "Weapons",
+        "Food",
+        "Cosmetic",
+        "Structures",
+        "Mobs"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/apocalypse-now",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Zombie Extreme",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Food",
+        "Armor",
+        "Weapons",
+        "Mobs",
+        "Structures"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/zombie-extreme",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Zombie Island",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Mobs"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/zombie-island",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Ribbits",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Structures",
+        "Mobs",
+        "Music",
+        "Cosmetic"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ribbits",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Mowzie's Mobs",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Weapons",
+        "Armor",
+        "Worldgen",
+        "Structures",
+        "Mobs",
+        "Boss"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Alex's Caves",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Armor",
+        "Weapons",
+        "Mobs",
+        "Animals",
+        "Worldgen",
+        "Biomes",
+        "Ores and Resources"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/alexs-caves",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Alex's Mobs",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Armor",
+        "Weapons",
+        "Tools",
+        "Animals",
+        "Mobs"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Untamed Wilds",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Food",
+        "Animals",
+        "Mobs",
+        "Worldgen"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/untamedwilds",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Naturalist",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "Animals",
+        "Mobs",
+        "Food",
+        "Ores and Resources",
+        "Farming"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/naturalist",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Epic Fight",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Armor",
+        "Weapons",
+        "Cosmetic",
+        "Combat"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Weapons of Miracle",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Weapons",
+        "Armor",
+        "Combat"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/weapons-of-miracles-epicfight",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Better Combat",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Combat"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Spirit of Fight",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Combat",
+        "Weapons",
+        "Armor"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/spirit-of-fight",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Skin Layers 3D",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "Adventure",
+        "Cosmetic"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Tectonic",
+      "side": "Server",
+      "type": [
+        "Worldgen"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/tectonic",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Visual Workbench",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Cosmetic"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/visual-workbench",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Amendments",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Cosmetic",
+        "Decoration",
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/amendments",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Quark",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Cosmetic",
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/quark",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Bosses Rise",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Armor",
+        "Weapons",
+        "Magic",
+        "Worldgen",
+        "Mobs",
+        "Boss",
+        "Combat",
+        "Structures"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/bossesrise",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Applied Energistics 2",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "GUI",
+        "Technology",
+        "Storage",
+        "Utility",
+        "Automation",
+        "Energy"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "CC: Tweaked",
+      "side": "Universal",
+      "type": [
+        "Technology",
+        "Automation",
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://modrinth.com/mod/cc-tweaked",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "WATERFrAMES: Multimedia Displays",
+      "side": "Universal",
+      "type": [
+        "Technology",
+        "Cosmetic",
+        "Utility",
+        "Music"
+      ],
+      "modId": "",
+      "version": "1.21.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/waterframes",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "WATERMeDIA: Multimedia API",
+      "side": "Client",
+      "type": [
+        "Technology",
+        "Cosmetic",
+        "Utility",
+        "API"
+      ],
+      "modId": "",
+      "version": "1.21.5",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/watermedia",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "CreativeCore",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "creativecore",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Replay Mod",
+      "side": "Client",
+      "type": [
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.21.5",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/replay-mod-fabric-and-forge",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Iron's Spells 'n Spellbooks",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Magic",
+        "Structures",
+        "Combat",
+        "Mobs",
+        "Boss"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Companions!",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Magic",
+        "Mobs",
+        "Boss",
+        "Structures",
+        "Weapons",
+        "Armor"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/companions-mod",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "JJ Thunder to the Max",
+      "side": "Server",
+      "type": [
+        "Worldgen",
+        "Adventure"
+      ],
+      "modId": "",
+      "version": "1.20.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/jjthunder-to-the-max",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Aquamirae",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Magic",
+        "Weapons",
+        "Armor",
+        "Combat",
+        "Boss",
+        "Mobs",
+        "Structures",
+        "Biomes",
+        "Worldgen"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Thermal Shock",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Magic",
+        "Technology",
+        "Worldgen",
+        "Structures",
+        "Armor",
+        "Weapons",
+        "Biomes",
+        "Dimension",
+        "Boss",
+        "Mobs",
+        "Music",
+        "Combat",
+        "Animals"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://modrinth.com/mod/thermal-shock",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "The Undergarden",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Weapons",
+        "Worldgen",
+        "Biomes",
+        "Dimension",
+        "Mobs",
+        "Ores and Resources"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/the-undergarden",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "The Aether",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Magic",
+        "Armor",
+        "Weapons",
+        "Worldgen",
+        "Biomes",
+        "Dimension",
+        "Boss",
+        "Mobs",
+        "Ores and Resources"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/aether",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Blue Skies",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Armor",
+        "Weapons",
+        "Worldgen",
+        "Structures",
+        "Biomes",
+        "Dimension",
+        "Boss",
+        "Mobs"
+      ],
+      "modId": "",
+      "version": "1.20.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/blue-skies",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Ender IO",
+      "side": "Universal",
+      "type": [
+        "Automation",
+        "Energy",
+        "Utility",
+        "Technology",
+        "Farming"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ender-io",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Tempad",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Adventure",
+        "Technology",
+        "Player Transport",
+        "Ores and Resources"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/tempad",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Farmer's Delight",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Food",
+        "Cosmetic",
+        "Farming",
+        "Decoration",
+        "Utility"
+      ],
+      "modId": "farmersdelight",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Placebo",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "placebo",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/placebo",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Entity Culling",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "Performance"
+      ],
+      "modId": "entityculling",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "ImmediatelyFast",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "Performance"
+      ],
+      "modId": "immediatelyfast",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Enchantment Descriptions",
+      "side": "Unknown",
+      "type": [
+        "QoL",
+        "GUI",
+        "Utility"
+      ],
+      "modId": "enchdesc",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
+      "contributor": "Izakji",
+      "observations": "Needs testing to confirm"
+    },
+    {
+      "name": "Puzzles Lib",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "puzzleslib",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Patchouli",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "patchouli",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "FTB Library",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "ftblibrary",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Searchables",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "Utility",
+        "API"
+      ],
+      "modId": "searchables",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Konkrete",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "konkrete",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/konkrete",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Kotlin for Forge",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "kotlinforforge",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Xaero's World Map",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "RPG",
+        "Player Transport",
+        "Map"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+      "contributor": "Izakji",
+      "observations": "This mod is mostly client-sided. Installing it on the server side is optional for some additional features like world identification."
+    },
+    {
+      "name": "FancyMenu",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI",
+        "Utility"
+      ],
+      "modId": "fancymenu",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/fancymenu",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Comforts",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Adventure",
+        "Vanilla+",
+        "Utility"
+      ],
+      "modId": "comforts",
+      "version": "1.21.5",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/comforts",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Resourceful Lib",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "resourcefullib",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Polymorph",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "GUI",
+        "Utility"
+      ],
+      "modId": "polymorph",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/polymorph",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Embeddium",
+      "side": "Client",
+      "type": [
+        "Performance",
+        "QoL",
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.21.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Player Animator",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "playeranimator",
+      "version": "1.21.7",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "FTB Teams",
+      "side": "Server",
+      "type": [
+        "Server Utility"
+      ],
+      "modId": "ftbteams",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge",
+      "contributor": "Izakji",
+      "observations": "Needs some more testing in order to confirm"
+    },
+    {
+      "name": "Framework",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "framework",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/framework",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "SuperMartijn642's Config Lib",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "supermartijn642configlib",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Fabric API",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "",
+      "version": "1.21.9-SNAPSHOT",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/fabric-api",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Citadel",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "FTB Quests",
+      "side": "Universal",
+      "type": [
+        "GUI",
+        "Utility",
+        "Quests"
+      ],
+      "modId": "ftbquests",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Melody",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "melody",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/melody",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Carry On",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Adventure",
+        "Utility",
+        "Technology",
+        "Storage"
+      ],
+      "modId": "carryon",
+      "version": "1.21.6",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+      "contributor": "Izakji",
+      "observations": "Needs some more testing to fully confirm"
+    },
+    {
+      "name": "Not Enough Animations",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "Cosmetic",
+        "Animation"
+      ],
+      "modId": "notenoughanimations",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+      "contributor": "Izakji",
+      "observations": "Needs some more testing to fully confirm"
+    },
+    {
+      "name": "spark",
+      "side": "Server",
+      "type": [
+        "Server Utility"
+      ],
+      "modId": "spark",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/spark",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "SuperMartijn642's Core Lib",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "supermartijn642corelib",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "AttributeFix",
+      "side": "Universal",
+      "type": [
+        "Performance",
+        "QoL"
+      ],
+      "modId": "attributefix",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+      "contributor": "Izakji",
+      "observations": "Needs some more testing for full confirmation"
+    },
+    {
+      "name": "JourneyMap",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "Map",
+        "GUI",
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/journeymap-web-map",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "[ETF] Entity Texture Features",
+      "side": "Client",
+      "type": [
+        "Utility",
+        "Animation",
+        "QoL",
+        "Cosmetic"
+      ],
+      "modId": "entity_texture_features",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "[EMF] Entity Model Features",
+      "side": "Client",
+      "type": [
+        "Utility",
+        "Animation",
+        "QoL",
+        "Cosmetic"
+      ],
+      "modId": "entity_model_features",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/entity-model-features",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Better Advancements",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI",
+        "Utility"
+      ],
+      "modId": "betteradvancements",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/better-advancements",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "TerraBlender",
+      "side": "Universal",
+      "type": [
+        "API",
+        "Biomes",
+        "Worldgen"
+      ],
+      "modId": "terrablender",
+      "version": "1.20.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/terrablender",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "Sound"
+      ],
+      "modId": "sound_physics_remastered",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+      "contributor": "Izakji",
+      "observations": "Needs testing to fully confirm"
+    },
+    {
+      "name": "MmmMmmMmmMmm (Target Dummy)",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Adventure",
+        "Vanilla+",
+        "Cosmetic"
+      ],
+      "modId": "dummmmmmy",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Rhino",
+      "side": "Universal",
+      "type": [
+        "API",
+        "KubeJS",
+        "Utility"
+      ],
+      "modId": "rhino",
+      "version": "1.21.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/rhino",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Iceberg",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "iceberg",
+      "version": "1.21.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/iceberg",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Resourceful Config",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "resourcefulconfig",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Connectivity",
+      "side": "Server",
+      "type": [
+        "Server Utility"
+      ],
+      "modId": "connectivity",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+      "contributor": "Izakji",
+      "observations": "The mod is not required on both sides, but offers useful functionality for both sides."
+    },
+    {
+      "name": "MineColonies",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "Adventure",
+        "RPG",
+        "Structures",
+        "Automation",
+        "Storage"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/minecolonies",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Bosses of Mass Destruction [Forge | NeoForge]",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Armor",
+        "Weapons",
+        "Worldgen",
+        "Structures",
+        "Boss",
+        "Mobs",
+        "Combat",
+        "Hardcore"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Adaptive Performance Tweaks: Core",
+      "side": "Server",
+      "type": [
+        "Server Utility",
+        "QoL",
+        "Performance"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-core",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Adaptive Performance Tweaks: Spawn",
+      "side": "Server",
+      "type": [
+        "Server Utility",
+        "QoL",
+        "Performance"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-spawn",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Adaptive Performance Tweaks: Player Login Optimization and Protection",
+      "side": "Server",
+      "type": [
+        "Server Utility",
+        "QoL",
+        "Performance"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-player",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Adaptive Performance Tweaks: Items",
+      "side": "Server",
+      "type": [
+        "Server Utility",
+        "QoL",
+        "Performance"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-items",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Adaptive Performance Tweaks: Gamerules",
+      "side": "Server",
+      "type": [
+        "Server Utility",
+        "QoL",
+        "Performance"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-gamerules",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Adaptive Performance Tweaks (Bundle)",
+      "side": "Server",
+      "type": [
+        "Server Utility",
+        "QoL",
+        "Performance"
+      ],
+      "modId": "",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Easy NPC",
+      "side": "Universal",
+      "type": [
+        "Server Utility",
+        "QoL",
+        "Adventure",
+        "RPG",
+        "Cosmetic",
+        "Mobs",
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.21.3",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/easy-npc",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Food Effect Tooltips (Forge)",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "GUI",
+        "Utility"
+      ],
+      "modId": "",
+      "version": "1.21.7",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/food-effect-tooltips-forge",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Decorative Blocks",
+      "side": "Universal",
+      "type": [
+        "Cosmetic",
+        "Blocks",
+        "Building"
+      ],
+      "modId": "",
+      "version": "1.20.4",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Ice and Fire: Dragons",
+      "side": "Universal",
+      "type": [
+        "Adventure",
+        "RPG",
+        "Magic",
+        "Worldgen",
+        "Structures",
+        "Boss",
+        "Mobs"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Modular Powersuits",
+      "side": "Universal",
+      "type": [
+        "QoL",
+        "RPG",
+        "Technology",
+        "Armor",
+        "Weapons",
+        "Cosmetic",
+        "Tools",
+        "Animation"
+      ],
+      "modId": "",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/modular-powersuits",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "First-person Model (Forge/Fabric)",
+      "side": "Client",
+      "type": [
+        "QoL",
+        "Cosmetic"
+      ],
+      "modId": "",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/first-person-model",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Lootr",
+      "side": "Universal",
+      "type": [
+        "Storage",
+        "Utility"
+      ],
+      "modId": "lootr",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/lootr",
+      "contributor": "Cheddar",
+      "observations": ""
+    },
+    {
+      "name": "Simple Voice Chat",
+      "side": "Universal",
+      "type": [
+        "Server Utility"
+      ],
+      "modId": "voicechat",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+      "contributor": "Cheddar",
+      "observations": "There is a Bukkit plugin"
+    },
+    {
+      "name": "Corpse",
+      "side": "Universal",
+      "type": [
+        "Utility",
+        "Storage"
+      ],
+      "modId": "corpse",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/corpse",
+      "contributor": "Cheddar",
+      "observations": ""
+    },
+    {
+      "name": "FTB XMod Compat",
+      "side": "Universal",
+      "type": [
+        "API",
+        "Utility"
+      ],
+      "modId": "ftbxmodcompat",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "https://github.com/FTBTeam/FTB-XMod-Compat",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "CoroUtil",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "coroutil",
+      "version": "1.21.4",
+      "incompatibleMods": [],
+      "source": "https://github.com/Corosauce/CoroUtil",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "YUNG's API (Forge/NeoForge)",
+      "side": "Server",
+      "type": [
+        "API"
+      ],
+      "modId": "yungsapi",
+      "version": "1.21.4",
+      "incompatibleMods": [],
+      "source": "https://github.com/YUNG-GANG/YUNGs-API",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
+      "contributor": "Izakji",
+      "observations": "Needs more testing to confirm"
+    },
+    {
+      "name": "Caelus API",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "caelus",
+      "version": "1.21.5",
+      "incompatibleMods": [],
+      "source": "https://github.com/illusivesoulworks/caelus",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/caelus",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "yet_another_config_lib_v3",
+      "version": "1.21.9-SNAPSHOT",
+      "incompatibleMods": [],
+      "source": "https://github.com/isXander/YetAnotherConfigLib",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Structurize",
+      "side": "Universal",
+      "type": [
+        "Server Utility",
+        "Structures"
+      ],
+      "modId": "structurize",
+      "version": "1.21.1",
+      "incompatibleMods": [],
+      "source": "https://github.com/ldtteam/Structurize",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/structurize",
+      "contributor": "Cheddar",
+      "observations": "This mod is required with Minecolonies."
+    },
+    {
+      "name": "bendy-lib",
+      "side": "Client",
+      "type": [
+        "API"
+      ],
+      "modId": "bendylib",
+      "version": "1.20.1",
+      "incompatibleMods": [],
+      "source": "https://github.com/KosmX/bendy-lib",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/bendy-lib",
+      "contributor": "Izakji",
+      "observations": ""
+    },
+    {
+      "name": "Just Enough Resources (JER)",
+      "side": "Unknown",
+      "type": [
+        "Server Utility",
+        "Utility",
+        "Ores and Resources",
+        "Biomes"
+      ],
+      "modId": "jeresources",
+      "version": "1.21.5",
+      "incompatibleMods": [],
+      "source": "https://github.com/way2muchnoise/JustEnoughResources",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
+      "contributor": "Izakji",
+      "observations": "Needs more testing to confirm side"
+    },
+    {
+      "name": "Fzzy Config",
+      "side": "Universal",
+      "type": [
+        "API"
+      ],
+      "modId": "fzzy_config",
+      "version": "1.21.8",
+      "incompatibleMods": [],
+      "source": "https://github.com/fzzyhmstrs/fconfig",
+      "website": "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
+      "contributor": "Izakji",
+      "observations": ""
+    }
+  ]
+}
